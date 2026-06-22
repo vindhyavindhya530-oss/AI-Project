@@ -1,0 +1,4 @@
+2026-06-11 12:23:45,170 [INFO] FileOrganiser bot started
+2026-06-11 12:23:45,177 [INFO] === Starting File Organiser ===
+2026-06-11 12:23:45,178 [ERROR] Source folder not found: Downloads
+2026-06-11 12:23:45,178 [INFO] Creating backup archive: Downloads_backup_20260611_122345.zip

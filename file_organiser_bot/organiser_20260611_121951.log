@@ -1,0 +1,20 @@
+2026-06-11 12:19:51,054 [INFO] FileOrganiser bot started
+2026-06-11 12:19:51,061 [INFO] === Starting File Organiser ===
+2026-06-11 12:19:51,062 [INFO] Scanning folder: C:\Users\Administrator\file_organiser_bot\messy_downloads
+2026-06-11 12:19:51,063 [INFO] Moved [scripts] analyse_data.py
+2026-06-11 12:19:51,064 [INFO] Moved [images] banner.jpg
+2026-06-11 12:19:51,065 [INFO] Moved [scripts] cleanup.py
+2026-06-11 12:19:51,068 [INFO] Moved [documents] invoice_feb.pdf
+2026-06-11 12:19:51,069 [INFO] Moved [documents] invoice_jan.pdf
+2026-06-11 12:19:51,070 [INFO] Moved [documents] invoice_mar.pdf
+2026-06-11 12:19:51,071 [INFO] Moved [images] logo.png
+2026-06-11 12:19:51,073 [INFO] Moved [text] notes.txt
+2026-06-11 12:19:51,074 [INFO] Moved [images] photo_team.jpg
+2026-06-11 12:19:51,075 [INFO] Moved [documents] presentation.pptx
+2026-06-11 12:19:51,075 [INFO] Moved [text] readme.txt
+2026-06-11 12:19:51,076 [INFO] Moved [data] sales_q1.csv
+2026-06-11 12:19:51,077 [INFO] Moved [data] sales_q2.csv
+2026-06-11 12:19:51,077 [INFO] Creating backup archive: messy_downloads_backup_20260611_121951.zip
+2026-06-11 12:19:51,279 [INFO] Backup complete: messy_downloads_backup_20260611_121951.zip
+2026-06-11 12:19:51,280 [INFO] === Done ===
+2026-06-11 12:19:51,280 [INFO] Backup saved to: messy_downloads_backup_20260611_121951.zip
