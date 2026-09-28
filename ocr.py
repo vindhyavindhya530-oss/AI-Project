@@ -1,16 +1,28 @@
 import cv2
 import pytesseract
+import shutil
+import os
 
 
 # --------------------------------------------------
 # TESSERACT PATH
 # --------------------------------------------------
 
-pytesseract.pytesseract.tesseract_cmd = (
+tesseract_path = shutil.which("tesseract")
+
+if tesseract_path:
+
+    pytesseract.pytesseract.tesseract_cmd = (
+        tesseract_path
+    )
+
+elif os.path.exists(
     r"C:\Program Files\Tesseract-OCR\tesseract.exe"
-)
+):
 
-
+    pytesseract.pytesseract.tesseract_cmd = (
+        r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+    )
 # --------------------------------------------------
 # GET OCR CONFIDENCE
 # --------------------------------------------------
