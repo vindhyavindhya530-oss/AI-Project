@@ -1,0 +1,59 @@
+{
+    "Travel": [
+        "uber",
+        "ola",
+        "taxi",
+        "cab",
+        "bus",
+        "metro",
+        "train",
+        "flight",
+        "airport"
+    ],
+
+    "Food": [
+        "zomato",
+        "swiggy",
+        "restaurant",
+        "restaurent",
+        "cafe",
+        "coffee",
+        "food",
+        "bhojan",
+        "bhojanalaya",
+        "dhaba",
+        "canteen",
+        "bakery",
+        "sweet",
+        "hotel"
+    ],
+
+    "Accommodation": [
+        "oyo",
+        "resort",
+        "lodge",
+        "inn",
+        "guest house",
+        "room accommodation",
+        "accommodation",
+        "hotel accommodation"
+    ],
+
+    "Office Supplies": [
+        "stationery",
+        "printer",
+        "xerox",
+        "notebook",
+        "office",
+        "paper",
+        "pen",
+        "computer"
+    ],
+
+    "Other": [
+        "hospital",
+        "medical",
+        "clinic",
+        "pharmacy"
+    ]
+}
